@@ -1,0 +1,148 @@
+h1{color: #3300ff;}
+img{color: #000000;}
+
+body { background-image: url("./scp.jpeg")  }
+body { background-repeat: no-repeat; }
+body { background-size: cover;  }
+body { color:rgb(0, 213, 255);  }
+
+#s {
+    display: block;
+    margin-right: auto;
+  }
+
+p {color: rgb(10, 213, 254);}
+
+h1 {color: rgb(0, 208, 255);}
+ 
+ PRE {color: rgb(6, 211, 242);}
+
+ figcaption {text-align: right;}
+ figcaption {color: rgba(12, 153, 240, 0.837);}
+ figcaption {
+    text-shadow: 2px 1px 1px #0019ff;
+    ;
+} 
+button{text-align: center;}
+
+#k{background-color:  black;}
+#k{size: 0cqmax; }
+#k{text-align: right;} 
+
+img {
+  max-width: 1011%; 
+  max-height: 1011%; 
+} 
+button{background-color: black;}
+button{color: rgba(12, 153, 240, 0.837);}
+pre{
+  text-shadow: 3px -1px 20px #0019ff;
+  ;
+}  
+button{
+  text-shadow: 1px -1px 0px #0019ff ;
+  ;
+} 
+aside {
+  width: 42%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: rgb(0, 0, 0);
+
+}
+
+
+#jh{color: rgb(0, 0, 0);}
+
+
+button { color: #3300ffd5;
+  min-width: 60px;
+
+  position: relative;
+  cursor: pointer;
+
+  padding: 5px 10px;
+  border: 0;
+  border-radius: 7px;
+
+  box-shadow: inset 0 0 0 1px rgba(2, 79, 221, 0.229);
+  background: radial-gradient(
+    ellipse at bottom,
+    rgb(16, 106, 203) 0%,
+    rgb(0, 0, 0) 45%
+  );
+
+  color: rgba(33, 30, 205, 0.51);
+
+  transition: all 1s cubic-bezier(0.15, 0.83, 0.66, 1);
+  filter: drop-shadow(0 0 6px #fff) drop-shadow(1px 1px 0px #000);
+}
+
+.button::before {
+  content: "img";
+  width: 10%;
+  height: 1px;
+
+  position: absolute;
+  bottom: 0;
+  left: 15%;
+
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  opacity: 0.2;
+
+  transition: all 1s cubic-bezier(0.15, 0.83, 0.66, 1);
+}
+
+.button:hover {
+  color: rgb(26, 0, 196);
+  transform: scale(1.1) translateY(-3px);
+}
+
+.button:hover::before {
+  opacity: 1;
+}
+.footer {
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 217, 255);
+  color: rgb(30, 0, 255);
+  text-align: center;
+}
+#ub{background-color: #000000;
+  position: relative;
+  top: -24px ; 
+  left: -0.5;
+    width: 401px;} 
+    
+    #HUGGY{background-color: #00a6ff;
+      color: #000;
+    top: 0%;
+        width: 401px; 
+        height: 71px; text-align:center ; 
+        text-shadow: 4px 0px 8px #142bff;
+        border-radius: 2px;
+        margin-top: 2px;
+       font-size: large;
+       
+      
+       
+      } 
+      #HUG{margin-top: -13px;
+       
+     }
+     a{color: rgb(255, 255, 255);
+      text-shadow:rgb(6, 211, 242);}
+#SRS{border-radius: 20%; 
+border: 2px solid #2330E9; 
+
+}
